@@ -27,3 +27,5 @@ GIT CLONE = permite clonar repositórios remotos.
 GIT BRANCH = lista as (branches) do repositório.
 GIT CHECKOUT -b (+ nome) = cria uma nova branch.
 GIT BRANCH -D (+ nome branch) = deleta a branch selecionada.
+
+GIT PUSH = envia as atualizações de  código para o remoto.
