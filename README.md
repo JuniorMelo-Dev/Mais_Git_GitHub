@@ -29,3 +29,4 @@ GIT CHECKOUT -b (+ nome) = cria uma nova branch.
 GIT BRANCH -D (+ nome branch) = deleta a branch selecionada.
 
 teste main.
+GIT PUSH = envia as atualizações de  código para o remoto.
