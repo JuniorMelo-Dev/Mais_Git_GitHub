@@ -11,6 +11,7 @@ GIT COMMIT = cria uma imagem atual do repositótio local.
 GIT LOG --DECORATE = reporta informações sobre logs de  modificação e/ou criação.
 
 GIT SHORTLOG = lista em ordem os autores e as criações de commit respectivamente.
+
 GIT SHORTLOG -SN = lista os commits de cada autor.
 
 GIT DIFF = mostra as mudanças, antes do commit.
