@@ -33,3 +33,4 @@ GIT PUSH = envia as atualizações de  código para o remoto.
 GIT LOG --GRAPH = mostra a  árvore de branches e cada commit relacionado.
 
 criando REBASE.
+GIT MERGE = faz a união entre as branches criadas e a MAIN.
