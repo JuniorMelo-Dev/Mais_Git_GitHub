@@ -31,3 +31,5 @@ GIT BRANCH -D (+ nome branch) = deleta a branch selecionada.
 GIT PUSH = envia as atualizações de  código para o remoto.
 
 GIT LOG --GRAPH = mostra a  árvore de branches e cada commit relacionado.
+
+criando REBASE.
