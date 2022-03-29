@@ -19,3 +19,5 @@ GIT DIFF = mostra as mudanças, antes do commit.
 GIT CHECKOUT (+ nome arquivo) = retorna para um momento antes, as modificações.
 
 GIT RESET HEAD = voltar para um momento antes, mesmo após fazer o GIT ADD.
+
+GIT REMOTE = retorna se o repositório local esta ligado ao remoto.
