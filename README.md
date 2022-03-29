@@ -28,5 +28,6 @@ GIT BRANCH = lista as (branches) do repositório.
 GIT CHECKOUT -b (+ nome) = cria uma nova branch.
 GIT BRANCH -D (+ nome branch) = deleta a branch selecionada.
 
-teste main.
 GIT PUSH = envia as atualizações de  código para o remoto.
+
+GIT LOG --GRAPH = mostra a  árvore de branches e cada commit relacionado.
