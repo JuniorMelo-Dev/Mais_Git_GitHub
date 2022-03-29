@@ -38,5 +38,8 @@ GIT MERGE = faz a união entre as branches criadas e a MAIN.
 
 GIT IGNORE = adição de parte do repositório para ser ignorado.
 
+GIT TAG = adicionando anotação de versões maiores.
+usar (git tag -a (nº versão) -m ("mensagem")).
+
 Reconfigurar tecla de comando com ALIAS = GIT CONFIG --GLOBAL ALIAS.(novo nome função) QUAL FUNÇÃO MUDAR.
 EX: git config --global alias.s status (trocando o nome da função git status).
